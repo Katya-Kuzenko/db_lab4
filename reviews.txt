@@ -1,0 +1,34 @@
+[
+  {
+    "user": "Andrii",
+    "review": "Great service!",
+    "date": { "$date": "2023-06-01T00:00:00Z" }
+  },
+  {
+    "user": "Katya",
+    "review": "Cool!",
+    "date": { "$date": "2023-06-02T00:00:00Z" }
+  },
+  {
+    "user": "Lilia",
+    "review": "Nice!",
+    "date": { "$date": "2023-06-03T00:00:00Z" }
+  },
+  {
+    "user": "Mark",
+    "review": "50/50",
+    "date": { "$date": "2023-06-04T00:00:00Z" }
+  },
+  {
+    "user": "Harry",
+    "review": "Ok",
+    "date": { "$date": "2023-06-05T00:00:00Z" }
+  }
+]
+
+
+  {
+    "user": "Ilona",
+    "review": "Nice",
+    "date": { "$date": "2023-06-06T00:00:00Z" }
+  }

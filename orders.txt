@@ -1,0 +1,137 @@
+[
+{
+  "order_number": 1004,
+  "date": { "$date": "2023-06-04T00:00:00Z" },
+  "total_sum": 2000,
+  "customer": {
+    "name": "Ivan",
+    "surname": "Kozak",
+    "phones": [8765432, 2345678],
+    "address": "Central St, 15, Kharkiv, UA"
+  },
+  "payment": {
+    "card_owner": "Ivan Kozak",
+    "cardId": 98765432
+  },
+  "items_id": [
+    { "$oid": "666c9c80d65485b5265768a8" },
+    { "$oid": "666c9c80d65485b5265768a9" }
+  ]
+},
+{
+  "order_number": 1005,
+  "date": { "$date": "2023-06-05T00:00:00Z" },
+  "total_sum": 1700,
+  "customer": {
+    "name": "Maria",
+    "surname": "Lysenko",
+    "phones": [3456789, 9876543],
+    "address": "Blue St, 33, Dnipro, UA"
+  },
+  "payment": {
+    "card_owner": "Maria Lysenko",
+    "cardId": 23456789
+  },
+  "items_id": [
+    { "$oid": "666c9c80d65485b5265768aa" },
+    { "$oid": "666c9c80d65485b5265768ab" }
+  ]
+},
+{
+  "order_number": 1006,
+  "date": { "$date": "2023-06-06T00:00:00Z" },
+  "total_sum": 1300,
+  "customer": {
+    "name": "Serhiy",
+    "surname": "Moroz",
+    "phones": [4567890, 1234567],
+    "address": "Green St, 10, Kyiv, UA"
+  },
+  "payment": {
+    "card_owner": "Serhiy Moroz",
+    "cardId": 34567890
+  },
+  "items_id": [
+    { "$oid": "666c9c80d65485b5265768ac" },
+    { "$oid": "666c9c80d65485b5265768ad" }
+  ]
+},
+{
+  "order_number": 1007,
+  "date": { "$date": "2023-06-07T00:00:00Z" },
+  "total_sum": 800,
+  "customer": {
+    "name": "Olena",
+    "surname": "Shevchenko",
+    "phones": [5678901, 7654321],
+    "address": "Yellow St, 25, Lviv, UA"
+  },
+  "payment": {
+    "card_owner": "Olena Shevchenko",
+    "cardId": 45678901
+  },
+  "items_id": [
+    { "$oid": "666c9c80d65485b5265768ae" },
+    { "$oid": "666c9c80d65485b5265768af" }
+  ]
+},
+{
+  "order_number": 1008,
+  "date": { "$date": "2023-06-08T00:00:00Z" },
+  "total_sum": 1100,
+  "customer": {
+    "name": "Petro",
+    "surname": "Skrypnyk",
+    "phones": [6789012, 8765432],
+    "address": "Orange St, 18, Poltava, UA"
+  },
+  "payment": {
+    "card_owner": "Petro Skrypnyk",
+    "cardId": 56789012
+  },
+  "items_id": [
+    { "$oid": "666c9c80d65485b5265768b0" },
+    { "$oid": "666c9c80d65485b5265768b1" }
+  ]
+},
+{
+  "order_number": 1009,
+  "date": { "$date": "2023-06-09T00:00:00Z" },
+  "total_sum": 900,
+  "customer": {
+    "name": "Daryna",
+    "surname": "Holub",
+    "phones": [7890123, 2345678],
+    "address": "White St, 14, Zhytomyr, UA"
+  },
+  "payment": {
+    "card_owner": "Daryna Holub",
+    "cardId": 67890123
+  },
+  "items_id": [
+    { "$oid": "666c9c80d65485b5265768a8" },
+    { "$oid": "666c9c80d65485b5265768b1" }
+  ]
+},
+{
+  "order_number": 1010,
+  "date": { "$date": "2023-06-10T00:00:00Z" },
+  "total_sum": 1600,
+  "customer": {
+    "name": "Mykola",
+    "surname": "Bondar",
+    "phones": [8901234, 3456789],
+    "address": "Black St, 9, Cherkasy, UA"
+  },
+  "payment": {
+    "card_owner": "Mykola Bondar",
+    "cardId": 78901234
+  },
+  "items_id": [
+    { "$oid": "666c9c80d65485b5265768aa" },
+    { "$oid": "666c9c80d65485b5265768ab" },
+    { "$oid": "666c9c80d65485b5265768ac" }
+  ]
+}
+]
+

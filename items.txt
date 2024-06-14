@@ -1,0 +1,62 @@
+[
+  {
+    "category": "Phone",
+    "model": "iPhone 6",
+    "producer": "Apple",
+    "price": 600
+  },
+  {
+    "category": "Phone",
+    "model": "Xiaomi Redmi 12",
+    "producer": "Xiaomi",
+    "price": 170
+  },
+  {
+    "category": "Phone",
+    "model": "Samsung Galaxy S22 Ultra",
+    "producer": "Samsung",
+    "price": 1165
+  },
+  {
+    "category": "Phone",
+    "model": "Nokia 3310",
+    "producer": "Nokia",
+    "price": 28
+  },
+  {
+    "category": "TV",
+    "model": "Samsung QLED",
+    "producer": "Samsung",
+    "price": 1500
+  },
+  {
+    "category": "Smart Watch",
+    "model": "Apple Watch Series 6",
+    "producer": "Apple",
+    "price": 400
+  },
+  {
+    "category": "Smart Watch",
+    "model": "Samsung Galaxy Watch 6",
+    "producer": "Samsung",
+    "price": 260
+  },
+  {
+    "category": "Laptop",
+    "model": "Dell XPS 13",
+    "producer": "Dell",
+    "price": 1200
+  },
+  {
+    "category": "Laptop",
+    "model": "Acer Swift 3",
+    "producer": "Acer",
+    "price": 605
+  },
+  {
+    "category": "Laptop",
+    "model": "MacBook Pro M3",
+    "producer": "Apple",
+    "price": 5200
+  }
+]
